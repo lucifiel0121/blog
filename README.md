@@ -24,3 +24,7 @@
 ### Angular 
 
 `2018-12-22`  [Angular未整理筆記](https://github.com/lucifiel0121/blog/issues/1)  
+
+### 刻版練習
+
+`2019-02-11`  [Angular 9*9 ](https://github.com/lucifiel0121/blog/issues/2)  
