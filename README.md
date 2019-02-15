@@ -17,6 +17,7 @@
 
 ## 依時間排序
 
+`2019-02-15`  [Functional Programming in Javascript 練習題 #1~ #11](https://github.com/lucifiel0121/blog/issues/3)  
 `2019-02-15`  [Asynchronous-javascript 簡介 與 rxjs-observables 前置介紹](https://github.com/lucifiel0121/blog/issues/3)  
 `2019-02-11`  [Angular 刻版練習 : JavaScript 題目篇 - 新手 JS 地下城: 1F - 9x9 乘法表 ](https://github.com/lucifiel0121/blog/issues/2)  
 `2018-12-22`  [Angular未整理筆記](https://github.com/lucifiel0121/blog/issues/1)  
@@ -33,4 +34,5 @@
 
 ### rxjs-observables
 
+`2019-02-15`  [Functional Programming in Javascript 練習題 #1~ #11](https://github.com/lucifiel0121/blog/issues/3)  
 `2019-02-15`  [Asynchronous-javascript 簡介 與 rxjs-observables 前置介紹](https://github.com/lucifiel0121/blog/issues/3)  
