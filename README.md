@@ -10,22 +10,26 @@
 > 文章的部分不會放在 repo 而是會放在 Issues 裡面，好處是方便留言跟分類，別人要引用的時候也會自己就有通知，缺點是比較難索引一點，所以還是會在這個介紹底下有個一個目錄方便尋找。
 有任何跟文章相關的問題都歡迎直接在 Issue 上面提出，想 Follow 的話也可以點個星星按個關注，感謝。
 
-[Todo]:
-把 hack.md 的筆記檔案，當作 Rubber Duck Debugging 黃色小鴨偵錯法 （用自己的方法寫一次）
-因為受眾是 `黃色小鴨`，所以可能有盲區解釋不清楚，希望藉由此方法來增加互動、以及對該知識的理解，透過開源的力量來達成黃色小鴨偵錯法 XDD。
+
+# 長期計劃 ＆ 特別專欄 
+啓由：
+之前一直都是用 hack.md 當作筆記，想說寫筆記時當作 Rubber Duck Debugging 黃色小鴨偵錯法 （用自己的方法寫一次），
+因為受眾是 `黃色小鴨`，所以可能有盲區解釋不清楚，希望藉由此 GitHub issue 方法來增加互動、以及對該知識的理解，透過開源的力量來達成黃色小鴨偵錯法 XDD。
 
 Todo list:
-### Git 小聚文章整理
+### Git 小聚文章整理 for Medium version
 ### Functional programming 的風格撰寫沒有 side effect 的 iteratorable Array，並實作於資料處理（API整理），並提及 js obseveable的觀念，整合成可以用於 rx.js 的 domain knowledge.
-    - Functional programming 
-    - side effect
-    - iteratorable
-    - Array
-    - 資料處理
-    - js obseveable的觀念
-    - rx.js
-
-
+ - Functional programming 
+ - side effect
+ - iteratorable
+ - Array
+ `2019-02-15`  [Asynchronous-javascript 簡介 與 rxjs-observables 前置介紹](https://github.com/lucifiel0121/blog/issues/3) 
+ - API 資料處理
+ `2019-02-20`  [Functional Programming in Javascript 練習題 #13-19](https://github.com/lucifiel0121/blog/issues/6)  
+ `2019-02-19`  [Functional Programming in Javascript 練習題 #12](https://github.com/lucifiel0121/blog/issues/5)  
+ `2019-02-15`  [Functional Programming in Javascript 練習題 #1~ #11](https://github.com/lucifiel0121/blog/issues/4)  
+ - js obseveable的觀念
+ - rx.js
 
 # 文章列表
 
