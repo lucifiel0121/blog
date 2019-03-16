@@ -1,19 +1,30 @@
 # 簡介
 
-看到 [Huli](https://github.com/aszx87410) 大大用 Github 當作部落格，自己寫筆記也很喜歡用 Markdown，所以仿照大大也開來 Github 。
-
-(以筆記而言，hackmd的流量或是搜尋分類比較不直觀)
+> 看到 [Huli](https://github.com/aszx87410) 大大用 Github 當作部落格，自己寫筆記也很喜歡用 Markdown，所以仿照大大也開來 Github (以筆記而言，hackmd的流量或是搜尋分類比較不直觀)
 
 <del>之後有閒暇在更新 hexo(GitHub Pages) 架的部落格。</del>
 
 有整理過的筆記、技術文 po 在 [Medium](https://medium.com/@Ashe_Li)
 
-
-文章的部分不會放在 repo 而是會放在 Issues 裡面，好處是方便留言跟分類，別人要引用的時候也會自己就有通知，缺點是比較難索引一點，所以還是會在這個介紹底下有個一個目錄方便尋找。
-
+> 文章的部分不會放在 repo 而是會放在 Issues 裡面，好處是方便留言跟分類，別人要引用的時候也會自己就有通知，缺點是比較難索引一點，所以還是會在這個介紹底下有個一個目錄方便尋找。
 有任何跟文章相關的問題都歡迎直接在 Issue 上面提出，想 Follow 的話也可以點個星星按個關注，感謝。
 
-(其實整天基本上複製貼上當樣板用 XD)
+[Todo]:
+把 hack.md 的筆記檔案，當作 Rubber Duck Debugging 黃色小鴨偵錯法 （用自己的方法寫一次）
+因為受眾是 `黃色小鴨`，所以可能有盲區解釋不清楚，希望藉由此方法來增加互動、以及對該知識的理解，透過開源的力量來達成黃色小鴨偵錯法 XDD。
+
+Todo list:
+### Git 小聚文章整理
+### Functional programming 的風格撰寫沒有 side effect 的 iteratorable Array，並實作於資料處理（API整理），並提及 js obseveable的觀念，整合成可以用於 rx.js 的 domain knowledge.
+    - Functional programming 
+    - side effect
+    - iteratorable
+    - Array
+    - 資料處理
+    - js obseveable的觀念
+    - rx.js
+
+
 
 # 文章列表
 
