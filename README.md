@@ -17,8 +17,8 @@
 因為受眾是 `黃色小鴨`，所以可能有盲區解釋不清楚，希望藉由此 GitHub issue 方法來增加互動、以及對該知識的理解，透過開源的力量來達成黃色小鴨偵錯法 XDD。
 
 Todo list:
-### Git 小聚文章整理 for Medium version
-### Functional programming 的風格撰寫沒有 side effect 的 iteratorable Array，並實作於資料處理（API整理），並提及 js obseveable的觀念，整合成可以用於 rx.js 的 domain knowledge.
+### 1. Git 小聚文章整理 for Medium version
+### 2. Functional programming 的風格撰寫沒有 side effect 的 iteratorable Array，並實作於資料處理（API整理），並提及 js obseveable的觀念，整合成可以用於 rx.js 的 domain knowledge.
  - Functional programming 
  - side effect
  - iteratorable
