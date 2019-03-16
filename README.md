@@ -23,9 +23,9 @@ Todo list:
  - side effect
  - iteratorable
  - Array
- `2019-02-15`  [Asynchronous-javascript 簡介 與 rxjs-observables 前置介紹](https://github.com/lucifiel0121/blog/issues/3) 
+`2019-02-15`  [Asynchronous-javascript 簡介 與 rxjs-observables 前置介紹](https://github.com/lucifiel0121/blog/issues/3) 
  - API 資料處理
- `2019-02-20`  [Functional Programming in Javascript 練習題 #13-19](https://github.com/lucifiel0121/blog/issues/6)  
+`2019-02-20`  [Functional Programming in Javascript 練習題 #13-19](https://github.com/lucifiel0121/blog/issues/6)  
  `2019-02-19`  [Functional Programming in Javascript 練習題 #12](https://github.com/lucifiel0121/blog/issues/5)  
  `2019-02-15`  [Functional Programming in Javascript 練習題 #1~ #11](https://github.com/lucifiel0121/blog/issues/4)  
  - js obseveable的觀念
