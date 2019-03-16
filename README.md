@@ -1,8 +1,9 @@
 # 簡介
 
-> 看到 [Huli](https://github.com/aszx87410) 大大用 Github 當作部落格，自己寫筆記也很喜歡用 Markdown，所以仿照大大也開來 Github (以筆記而言，hackmd的流量或是搜尋分類比較不直觀)
+> 看到 [Huli](https://github.com/aszx87410) 大大用 Github 當作部落格，自己寫筆記也很喜歡用 Markdown，所以仿照大大也開來 Github 
+(以筆記而言，hackmd的流量或是搜尋分類比較不直觀)
 
-<del>之後有閒暇在更新 hexo(GitHub Pages) 架的部落格。</del>
+<del>之後有閒暇在更新 hexo(GitHub Pages) 架的部落格。 (暫時先擱置）</del>
 
 有整理過的筆記、技術文 po 在 [Medium](https://medium.com/@Ashe_Li)
 
