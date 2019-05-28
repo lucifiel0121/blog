@@ -3,18 +3,12 @@
 > 看到 [Huli](https://github.com/aszx87410) 大大用 Github 當作部落格，自己寫筆記也很喜歡用 Markdown，所以仿照大大也開來 Github 
 (以筆記而言，hackmd的流量或是搜尋分類比較不直觀)
 
-<del>之後有閒暇在更新 hexo(GitHub Pages) 架的部落格。 (暫時先擱置）</del>
-
 有整理過的筆記、技術文 po 在 [Medium](https://medium.com/@Ashe_Li)
 
 > 文章的部分不會放在 repo 而是會放在 Issues 裡面，好處是方便留言跟分類，別人要引用的時候也會自己就有通知，缺點是比較難索引一點，所以還是會在這個介紹底下有個一個目錄方便尋找。
 有任何跟文章相關的問題都歡迎直接在 Issue 上面提出，想 Follow 的話也可以點個星星按個關注，感謝。
 
 
-# 長期計劃 ＆ 特別專欄 
-啓由：
-之前一直都是用 hack.md 當作筆記，想說寫筆記時當作 Rubber Duck Debugging 黃色小鴨偵錯法 （用自己的方法寫一次），
-因為受眾是 `黃色小鴨`，所以可能有盲區解釋不清楚，希望藉由此 GitHub issue 方法來增加互動、以及對該知識的理解，透過開源的力量來達成黃色小鴨偵錯法 XDD。
 
 Todo list:
 ### 1. Git 小聚文章整理 for Medium version
